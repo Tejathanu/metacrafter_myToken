@@ -16,3 +16,22 @@ To use the MyToken smart contract, you can follow these steps:
 
 ```bash
 git clone https://github.com/your-username/mytoken.git
+
+````
+2. Navigate to the contract directory:
+
+```bash
+cd mytoken
+
+```
+3. Executing program:
+To run the smart contract, you need to deploy it to the Ethereum blockchain using your preferred Ethereum development tools (e.g., Remix, Truffle, etc.). After deploying, you can interact with it through its public functions
+
+#### Help
+
+If you encounter any issues or have questions about using the smart contract, you can reach out to the project contributors for assistance.
+
+##### Authors
+
+teja tej (tejteja259@gmail.com)
+@tejtejathanu
