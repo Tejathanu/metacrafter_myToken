@@ -27,11 +27,11 @@ cd mytoken
 3. Executing program:
 To run the smart contract, you need to deploy it to the Ethereum blockchain using your preferred Ethereum development tools (e.g., Remix, Truffle, etc.). After deploying, you can interact with it through its public functions
 
-#### Help
+### Help
 
 If you encounter any issues or have questions about using the smart contract, you can reach out to the project contributors for assistance.
 
-##### Authors
+### Authors
 
 teja tej (tejteja259@gmail.com)
 @tejtejathanu
